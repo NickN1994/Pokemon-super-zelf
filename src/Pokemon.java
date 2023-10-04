@@ -16,10 +16,6 @@ public abstract class Pokemon {
 
     public abstract void eats();
 
-    public void solarBeam() {
-        System.out.println(name + " use Solarbeam");
-    }
-
     public void speak() {
 
     }
